@@ -8,7 +8,7 @@ A list of some (potentially) useful datapacks to you, some are made by me, some 
 	- `/function markersort:event/ascending` and `descending` 
 	- Comments are included throughout, check the `examples/` for some demonstrations on how to use it, it's pretty simple.
 	
-	*Credits go to TheMrZZ#9307 for posting this on MCC #resources, just thought it's neat so I formatted it into a quick lib intended for text displays.*
+	*Credits go to TheMrZZ#9307 for posting this on MCC #resources, just thought it's neat so I formatted it into a quick lib.*
 
 
 
