@@ -1,5 +1,5 @@
 # Datapack Utils
-A list of some (potentially) useful datapacks to you, some are made by me, some are made by others and packaged/optimized by me, feel free to nab any of the datapacks above
+A list of some (potentially) useful datapack utils to you, some are made by me, some are made by others and packaged/optimized by me, feel free to nab any of the datapacks above
 
  1. Marker Sort: Basic sorting library that uses markers with stored values to sort two different arrays at once, keys and values. Essentially a sorted `hashmap`.
 **Usage:**
