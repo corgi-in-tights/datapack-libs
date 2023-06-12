@@ -4,8 +4,8 @@ A list of some (potentially) useful datapack utils to you, some are made by me, 
  1. Marker Sort: Basic sorting library that uses markers with stored values to sort two different arrays at once, keys and values. Essentially a sorted `hashmap`.
 **Usage:**
 	- Drop your keys (must be positive integers) into the storage `markersort:data keys`, these are the sorting values. So for example, if I wanted to sort by kills, I would put them in here.
-	- Drop your values - anything thats connected to the key, so usernames, kill ratios, etc. into `markersort:data values`. Imagine it like a hashmap: {Key: Value}, but not really. Can be any format (list, short, long, int).
-	- `/function markersort:event/ascending` and `descending` 
+	- Drop your values - anything thats connected to the key, so usernames, kill ratios, etc. into `markersort:data values`. Imagine it like a hashmap: {Key: Value}, but not really. Can be any format (list, short, long, int) - this must be in order with the keys, if that's not obvious.
+	- New values are appended to the same arrays, use `/function markersort:event/ascending` or `descending` to sort
 	- Comments are included throughout, check the `examples/` for some demonstrations on how to use it, it's pretty simple.
 	
 	*Credits go to TheMrZZ#9307 for posting this on MCC #resources, just thought it's neat so I formatted it into a quick lib.*
